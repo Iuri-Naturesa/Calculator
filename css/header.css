@@ -1,0 +1,13 @@
+.header-bg {
+  background-color: #060709;
+  padding: 1.5rem 0;
+  /* background-color: #363e3c; */
+}
+.header {
+  display: flex;
+  justify-content: center;
+}
+.header h1 {
+  color: #dfdede;
+  font-size: 2rem;
+}

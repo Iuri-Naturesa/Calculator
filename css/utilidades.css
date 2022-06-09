@@ -1,0 +1,22 @@
+.container {
+  box-sizing: border-box;
+  max-width: 1600px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.botao {
+  cursor: pointer;
+  box-shadow: 0 2px rgb(107, 107, 107);
+}
+
+.botao:hover {
+  background-color: #303640;
+}
+
+.botao:active {
+  background-color: #303640;
+  box-shadow: 0 1px #666;
+  transform: translateY(4px);
+}
